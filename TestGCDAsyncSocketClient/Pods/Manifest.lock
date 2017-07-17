@@ -1,0 +1,16 @@
+PODS:
+  - CocoaAsyncSocket (7.6.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket (from `/Users/sunhongyue/3rdParty/CocoaAsyncSocket`)
+
+EXTERNAL SOURCES:
+  CocoaAsyncSocket:
+    :path: /Users/sunhongyue/3rdParty/CocoaAsyncSocket
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+
+PODFILE CHECKSUM: 4e52232c3d7acea777f076ee973529ee291b5c02
+
+COCOAPODS: 1.2.1
